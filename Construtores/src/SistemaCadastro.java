@@ -1,5 +1,3 @@
-package pessoa;
-
 public class SistemaCadrastro {
 	public static void main(String[] args) {
 		Pessoa marcos = new Pessoa();
