@@ -11,5 +11,6 @@
 	<classpathentry kind="src" path="exemplo_pacotes/src"/>
 	<classpathentry kind="src" path="GettersSetters/src"/>
 	<classpathentry kind="src" path="Trilha Java Basico/java-anatomia-classes/src"/>
+	<classpathentry kind="src" path="PilaresPoo/src/poo"/>
 	<classpathentry kind="output" path="Construtores/bin"/>
 </classpath>
