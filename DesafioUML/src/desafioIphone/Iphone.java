@@ -5,47 +5,46 @@ public class Iphone implements ReprodutorMusical, AparelhoTelefonico, NavegadorI
 
     @Override
     public void ligar(String numero) {
-        //Implementação aqui
+        System.out.println("Discando os numeros...");
     }
 
     @Override
     public void atender(String numero) {
-        //Implementação aqui
+        System.out.println("Atendendo a ligacao...");
     }
 
     @Override
     public void iniciarCorreioVoz(String mensagem, String destinatario) {
-        //Implementação aqui
+        System.out.println("Iniciando um correio de voz...");
     }
 
     @Override
     public void exibirPagina(String url) {
-        //Implementação aqui
+        System.out.println("Pagina web solicitada...");
     }
 
     @Override
     public void adicionarNovaAba(String url) {
-        //Implementação aqui
+        System.out.println("Exibindo nova aba...");
     }
 
     @Override
     public void atualizarPagina() {
-        //Implementação aqui
+        System.out.println("Atualizando a pagina atual...");
     }
 
     @Override
     public void tocar() {
-        //Implementação aqui
+        System.out.println("Tocando a musica escolhida...");
     }
 
     @Override
     public void pausar() {
-        //Implementação aqui
+        System.out.println("Pausando a musica em execucao...");
     }
 
     @Override
     public void selecionarMusica() {
-        //Implementação aqui
+        System.out.println("Musica escolhida...");
     }
 }
-
